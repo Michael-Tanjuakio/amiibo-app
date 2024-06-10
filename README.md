@@ -6,6 +6,10 @@ Submitted by: **Michael Tanjuakio**
 
 Time spent: **1** hours spent in total
 
+Note: This project is built off another project, its time should be considered
+
+Project: https://github.com/Michael-Tanjuakio/and101-project6
+
 ## Summary
 
 **Amiibo App** is an android app that displays a scrollable list of characters from the Amiibo API
