@@ -4,10 +4,7 @@
 
 Submitted by: **Michael Tanjuakio**
 
-Time spent: **1** hours spent in total
-
-Note: This project is built off another project, its time should be considered
-
+Built off from this project:
 Project: https://github.com/Michael-Tanjuakio/and101-project6
 
 ## Summary
